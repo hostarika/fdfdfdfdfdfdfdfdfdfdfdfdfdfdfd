@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+#myChart{
+
+}
+.hhh{
+    width: 500px;
+    height: 200px;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    padding: 100px;
+}
